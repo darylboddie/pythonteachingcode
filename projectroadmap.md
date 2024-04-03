@@ -1,0 +1,7 @@
+Create project title 
+Put project title and information in Excel 
+Join organization channel 
+Find similar project repository in Github and clone it 
+Create readme.md file
+Create projectroadmap.md file
+Add repository to organization channel 
