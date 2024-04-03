@@ -1,4 +1,4 @@
-Create project title 
+-[x]Create project title 
 Put project title and information in Excel 
 Join organization channel 
 Find similar project repository in Github and clone it 
